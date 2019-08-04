@@ -1,8 +1,0 @@
-C:\dev\BlockChain\Cryptography\bin\Debug\netstandard2.0\Cryptography.deps.json
-C:\dev\BlockChain\Cryptography\bin\Debug\netstandard2.0\Cryptography.dll
-C:\dev\BlockChain\Cryptography\bin\Debug\netstandard2.0\Cryptography.pdb
-C:\dev\BlockChain\Cryptography\obj\Debug\netstandard2.0\Cryptography.csproj.CoreCompileInputs.cache
-C:\dev\BlockChain\Cryptography\obj\Debug\netstandard2.0\Cryptography.AssemblyInfoInputs.cache
-C:\dev\BlockChain\Cryptography\obj\Debug\netstandard2.0\Cryptography.AssemblyInfo.cs
-C:\dev\BlockChain\Cryptography\obj\Debug\netstandard2.0\Cryptography.dll
-C:\dev\BlockChain\Cryptography\obj\Debug\netstandard2.0\Cryptography.pdb

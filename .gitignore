@@ -35,6 +35,25 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+Blockchain.Merkle/bin/
+Blockchain.Merkle/obj/
+BlockChainSingleTransaction/bin/
+BlockChainSingleTransaction/obj/
+BlockWithMultipleTransactions/bin/
+BlockWithMultipleTransactions/obj/
+BlockWithProofOfWork/bin/
+BlockWithProofOfWork/obj/
+BlockWithTransactionPool/bin/
+BlockWithTransactionPool/obj/
+Core/bin/
+Core/obj/
+Cryptography/bin/
+Cryptography/obj/
+Insurance.Blochain/bin/
+Insurance.Blochain/obj/
+ProofOfWorkTest/bin/
+ProofOfWorkTest/obj/
+
 
 # TypeScript v1 declaration files
 typings/
