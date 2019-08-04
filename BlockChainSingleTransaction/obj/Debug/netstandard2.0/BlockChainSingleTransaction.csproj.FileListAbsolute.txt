@@ -1,0 +1,12 @@
+C:\dev\BlockChain\BlockChainSingleTransaction\bin\Debug\netstandard2.0\BlockChainSingleTransaction.deps.json
+C:\dev\BlockChain\BlockChainSingleTransaction\bin\Debug\netstandard2.0\BlockChainSingleTransaction.dll
+C:\dev\BlockChain\BlockChainSingleTransaction\bin\Debug\netstandard2.0\BlockChainSingleTransaction.pdb
+C:\dev\BlockChain\BlockChainSingleTransaction\bin\Debug\netstandard2.0\Cryptography.dll
+C:\dev\BlockChain\BlockChainSingleTransaction\bin\Debug\netstandard2.0\Cryptography.pdb
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.csprojAssemblyReference.cache
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.csproj.CoreCompileInputs.cache
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.AssemblyInfoInputs.cache
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.AssemblyInfo.cs
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.csproj.CopyComplete
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.dll
+C:\dev\BlockChain\BlockChainSingleTransaction\obj\Debug\netstandard2.0\BlockChainSingleTransaction.pdb

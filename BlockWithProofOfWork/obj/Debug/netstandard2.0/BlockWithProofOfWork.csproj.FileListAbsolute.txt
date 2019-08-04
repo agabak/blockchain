@@ -1,0 +1,14 @@
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\BlockWithProofOfWork.deps.json
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\BlockWithProofOfWork.dll
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\BlockWithProofOfWork.pdb
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\Blockchain.Merkle.dll
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\Cryptography.dll
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\Blockchain.Merkle.pdb
+C:\dev\BlockChain\BlockWithProofOfWork\bin\Debug\netstandard2.0\Cryptography.pdb
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.csprojAssemblyReference.cache
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.csproj.CoreCompileInputs.cache
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.AssemblyInfoInputs.cache
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.AssemblyInfo.cs
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.csproj.CopyComplete
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.dll
+C:\dev\BlockChain\BlockWithProofOfWork\obj\Debug\netstandard2.0\BlockWithProofOfWork.pdb

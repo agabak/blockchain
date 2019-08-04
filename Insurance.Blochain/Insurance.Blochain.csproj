@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlockChainSingleTransaction\BlockChainSingleTransaction.csproj" />
+    <ProjectReference Include="..\BlockWithMultipleTransactions\BlockWithMultipleTransactions.csproj" />
+    <ProjectReference Include="..\BlockWithProofOfWork\BlockWithProofOfWork.csproj" />
+    <ProjectReference Include="..\BlockWithTransactionPool\BlockWithTransactionPool.csproj" />
+  </ItemGroup>
+
+</Project>

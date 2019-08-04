@@ -1,0 +1,14 @@
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\BlockWithTransactionPool.deps.json
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\BlockWithTransactionPool.dll
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\BlockWithTransactionPool.pdb
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\Blockchain.Merkle.dll
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\Cryptography.dll
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\Blockchain.Merkle.pdb
+C:\dev\BlockChain\BlockWithTransactionPool\bin\Debug\netstandard2.0\Cryptography.pdb
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.csprojAssemblyReference.cache
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.csproj.CoreCompileInputs.cache
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.AssemblyInfoInputs.cache
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.AssemblyInfo.cs
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.csproj.CopyComplete
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.dll
+C:\dev\BlockChain\BlockWithTransactionPool\obj\Debug\netstandard2.0\BlockWithTransactionPool.pdb

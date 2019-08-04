@@ -1,0 +1,189 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Blockchain.Merkle/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Blockchain.Merkle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blockchain.Merkle.dll": {}
+        }
+      },
+      "BlockChainSingleTransaction/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Cryptography": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlockChainSingleTransaction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlockChainSingleTransaction.dll": {}
+        }
+      },
+      "BlockWithMultipleTransactions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Blockchain.Merkle": "1.0.0",
+          "Cryptography": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlockWithMultipleTransactions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlockWithMultipleTransactions.dll": {}
+        }
+      },
+      "BlockWithProofOfWork/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Blockchain.Merkle": "1.0.0",
+          "Cryptography": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlockWithProofOfWork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlockWithProofOfWork.dll": {}
+        }
+      },
+      "BlockWithTransactionPool/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Blockchain.Merkle": "1.0.0",
+          "Cryptography": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlockWithTransactionPool.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlockWithTransactionPool.dll": {}
+        }
+      },
+      "Cryptography/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Cryptography.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cryptography.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blockchain.Merkle/1.0.0": {
+      "type": "project",
+      "path": "../Blockchain.Merkle/Blockchain.Merkle.csproj",
+      "msbuildProject": "../Blockchain.Merkle/Blockchain.Merkle.csproj"
+    },
+    "BlockChainSingleTransaction/1.0.0": {
+      "type": "project",
+      "path": "../BlockChainSingleTransaction/BlockChainSingleTransaction.csproj",
+      "msbuildProject": "../BlockChainSingleTransaction/BlockChainSingleTransaction.csproj"
+    },
+    "BlockWithMultipleTransactions/1.0.0": {
+      "type": "project",
+      "path": "../BlockWithMultipleTransactions/BlockWithMultipleTransactions.csproj",
+      "msbuildProject": "../BlockWithMultipleTransactions/BlockWithMultipleTransactions.csproj"
+    },
+    "BlockWithProofOfWork/1.0.0": {
+      "type": "project",
+      "path": "../BlockWithProofOfWork/BlockWithProofOfWork.csproj",
+      "msbuildProject": "../BlockWithProofOfWork/BlockWithProofOfWork.csproj"
+    },
+    "BlockWithTransactionPool/1.0.0": {
+      "type": "project",
+      "path": "../BlockWithTransactionPool/BlockWithTransactionPool.csproj",
+      "msbuildProject": "../BlockWithTransactionPool/BlockWithTransactionPool.csproj"
+    },
+    "Cryptography/1.0.0": {
+      "type": "project",
+      "path": "../Cryptography/Cryptography.csproj",
+      "msbuildProject": "../Cryptography/Cryptography.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "BlockChainSingleTransaction >= 1.0.0",
+      "BlockWithMultipleTransactions >= 1.0.0",
+      "BlockWithProofOfWork >= 1.0.0",
+      "BlockWithTransactionPool >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Agaba\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\BlockChain\\Insurance.Blochain\\Insurance.Blochain.csproj",
+      "projectName": "Insurance.Blochain",
+      "projectPath": "C:\\dev\\BlockChain\\Insurance.Blochain\\Insurance.Blochain.csproj",
+      "packagesPath": "C:\\Users\\Agaba\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\BlockChain\\Insurance.Blochain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Agaba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\dev\\BlockChain\\BlockChainSingleTransaction\\BlockChainSingleTransaction.csproj": {
+              "projectPath": "C:\\dev\\BlockChain\\BlockChainSingleTransaction\\BlockChainSingleTransaction.csproj"
+            },
+            "C:\\dev\\BlockChain\\BlockWithMultipleTransactions\\BlockWithMultipleTransactions.csproj": {
+              "projectPath": "C:\\dev\\BlockChain\\BlockWithMultipleTransactions\\BlockWithMultipleTransactions.csproj"
+            },
+            "C:\\dev\\BlockChain\\BlockWithProofOfWork\\BlockWithProofOfWork.csproj": {
+              "projectPath": "C:\\dev\\BlockChain\\BlockWithProofOfWork\\BlockWithProofOfWork.csproj"
+            },
+            "C:\\dev\\BlockChain\\BlockWithTransactionPool\\BlockWithTransactionPool.csproj": {
+              "projectPath": "C:\\dev\\BlockChain\\BlockWithTransactionPool\\BlockWithTransactionPool.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

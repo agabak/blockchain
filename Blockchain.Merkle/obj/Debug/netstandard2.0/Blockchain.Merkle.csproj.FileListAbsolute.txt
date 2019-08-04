@@ -1,0 +1,8 @@
+C:\dev\BlockChain\Blockchain.Merkle\bin\Debug\netstandard2.0\Blockchain.Merkle.deps.json
+C:\dev\BlockChain\Blockchain.Merkle\bin\Debug\netstandard2.0\Blockchain.Merkle.dll
+C:\dev\BlockChain\Blockchain.Merkle\bin\Debug\netstandard2.0\Blockchain.Merkle.pdb
+C:\dev\BlockChain\Blockchain.Merkle\obj\Debug\netstandard2.0\Blockchain.Merkle.csproj.CoreCompileInputs.cache
+C:\dev\BlockChain\Blockchain.Merkle\obj\Debug\netstandard2.0\Blockchain.Merkle.AssemblyInfoInputs.cache
+C:\dev\BlockChain\Blockchain.Merkle\obj\Debug\netstandard2.0\Blockchain.Merkle.AssemblyInfo.cs
+C:\dev\BlockChain\Blockchain.Merkle\obj\Debug\netstandard2.0\Blockchain.Merkle.dll
+C:\dev\BlockChain\Blockchain.Merkle\obj\Debug\netstandard2.0\Blockchain.Merkle.pdb

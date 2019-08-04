@@ -1,0 +1,14 @@
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Core.dll
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Blockchain.Merkle.dll
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Cryptography.dll
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Blockchain.Merkle.pdb
+C:\dev\BlockChain\Core\bin\Debug\netstandard2.0\Cryptography.pdb
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.csproj.CopyComplete
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.dll
+C:\dev\BlockChain\Core\obj\Debug\netstandard2.0\Core.pdb

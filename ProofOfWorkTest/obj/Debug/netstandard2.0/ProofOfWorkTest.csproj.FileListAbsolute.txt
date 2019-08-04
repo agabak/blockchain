@@ -1,0 +1,12 @@
+C:\dev\BlockChain\ProofOfWorkTest\bin\Debug\netstandard2.0\ProofOfWorkTest.deps.json
+C:\dev\BlockChain\ProofOfWorkTest\bin\Debug\netstandard2.0\ProofOfWorkTest.dll
+C:\dev\BlockChain\ProofOfWorkTest\bin\Debug\netstandard2.0\ProofOfWorkTest.pdb
+C:\dev\BlockChain\ProofOfWorkTest\bin\Debug\netstandard2.0\Cryptography.dll
+C:\dev\BlockChain\ProofOfWorkTest\bin\Debug\netstandard2.0\Cryptography.pdb
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.csprojAssemblyReference.cache
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.csproj.CoreCompileInputs.cache
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.AssemblyInfoInputs.cache
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.AssemblyInfo.cs
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.csproj.CopyComplete
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.dll
+C:\dev\BlockChain\ProofOfWorkTest\obj\Debug\netstandard2.0\ProofOfWorkTest.pdb
